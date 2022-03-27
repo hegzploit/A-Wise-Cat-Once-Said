@@ -1,6 +1,6 @@
-<center>
-![](meow.png)
-</center>
+<p align="center">
+  <img src="./meow.png">
+</p>
 
 ## About the project
 Ever wanted to quote a cat's wisdom but couldn't? now you can.
