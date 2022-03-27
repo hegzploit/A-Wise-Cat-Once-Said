@@ -6,7 +6,7 @@
 Ever wanted to quote a cat's wisdom but couldn't? now you can.
 
 ## Requirements
-None, this is good 'ol C++.
+None, this is good 'ol C.
 
 ## Usage
 
@@ -16,8 +16,8 @@ make all
 ```
 
 and Run
-``` c++
-$ wisecat Meow
+``` c
+wisecat Meow
 ```
 
 ## License
