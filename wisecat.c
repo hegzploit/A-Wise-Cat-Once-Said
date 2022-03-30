@@ -17,7 +17,16 @@ int main(int argc, char *argv[]){
         puts("Usage: ./wisecat <wise words here>");
         exit(1);
     }
-    printf("              %s\n", argv[1]);
+	for (int i = 1; i < argc; i++){
+		switch(i){
+			case 1:
+				printf("              %s", argv[i]);
+				break;
+			default:
+				printf(" %s", argv[i]);
+		}
+	}
+	puts("");
     printf("%s", cat);
 
     return 0;
