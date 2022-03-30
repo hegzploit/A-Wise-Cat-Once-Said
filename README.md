@@ -21,8 +21,8 @@ wisecat Meow
 ```
 ## TODOs
 features to implement in the future, you can also suggest a feature through filing an issue.
-- [] Add Multiple cats to chose from.
-- [] The ability for users to provide their own ascii art instead of hardcoded ones.
+- [ ] Add Multiple cats to chose from.
+- [ ] The ability for users to provide their own ascii art instead of hardcoded ones.
 
 
 ## License
